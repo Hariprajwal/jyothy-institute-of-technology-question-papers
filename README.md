@@ -4,7 +4,7 @@
 ### Comprehensive Academic Archive: Question Papers, Lab Manuals, Notes & Placement Prep
 
 [![Website](https://img.shields.io/badge/Official_Portal-JyothiFiles-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sites.google.com/view/jyothifiles/home)
-[![Telegram Community](https://img.shields.io/badge/Telegram-Join_Community-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Jyothifiles)
+[![Telegram Community](https://img.shields.io/badge/Telegram-Join_Community-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://sites.google.com/view/jyothifiles/home)
 [![B.Tech Group](https://img.shields.io/badge/Telegram-2022_Scheme_Group-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Bteck2022)
 [![Instagram](https://img.shields.io/badge/Creator-@hariprajwal7746-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hariprajwal7746)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
