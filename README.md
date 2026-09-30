@@ -1,7 +1,7 @@
 <div align="center">
 
 # 📚 JYOTHI INSTITUTE OF TECHNOLOGY (JIT)
-### Comprehensive Academic Archive: Question Papers, Lab Manuals, Notes & Placement Prep
+### Comprehensive Academic Archive: Question Papers, Lab Manuals, Notes & Placement Prep (student website)
 
 [![Website](https://img.shields.io/badge/Official_Portal-JyothiFiles-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sites.google.com/view/jyothifiles/home)
 [![Telegram Community](https://img.shields.io/badge/Telegram-Join_Community-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://sites.google.com/view/jyothifiles/home)
